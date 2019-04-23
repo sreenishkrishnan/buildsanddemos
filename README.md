@@ -4,7 +4,7 @@ This repo will host demos that you can build and learn.
 
 Following are the demo's that are available at this stage
 
-[Link](https://test.salesforce.com)
+[Link](page1.html)
 
 ### General Setup
 
