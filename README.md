@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Build a Demo  
 
-You can use the [editor on GitHub](https://github.com/sreenishkrishnan/buildsanddemos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repo will host demos that you can build and learn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Following are the demo's that are available at this stage
 
-### Markdown
+[Link](https://test.salesforce.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### General Setup
+
+Code blocks will be shown as below
 
 ```markdown
 Syntax highlighted code block
