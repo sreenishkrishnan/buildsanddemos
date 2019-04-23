@@ -4,7 +4,7 @@ This repo will host demos that you can build and learn.
 
 Following are the demo's that are available at this stage
 
-[Link](page1.html)
+[Link] .   (<a href="page1.html">Page 2</a>)
 
 ### General Setup
 
